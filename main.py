@@ -1,4 +1,3 @@
-
 # Get users input
 print("1 - Addition")
 print("2 - subtraction")
